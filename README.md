@@ -1,2 +1,2 @@
 # PyPong
-Python Pong clone
+OOP practice by creating a pong project using python turtle.
